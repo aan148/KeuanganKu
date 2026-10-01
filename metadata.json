@@ -1,0 +1,6 @@
+{
+  "name": "CatatUang - Kelola Keuangan Lebih Mudah & Cerdas",
+  "description": "Aplikasi landing page dan manajemen keuangan cerdas CatatUang dengan analitik interaktif, pelacak transaksi real-time, dan autentikasi Firebase Google Sign-In.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
